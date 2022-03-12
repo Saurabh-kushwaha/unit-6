@@ -1,0 +1,29 @@
+[
+    {    
+    "id": 1001,
+    "first_name": "gaurbh",
+    "last_name": "Thakur",
+    "email": "Thakur0@test.com",
+    "gender": "Male",
+    "ip_address": "134.235.194.36",
+    "age": 15
+   },
+   {    
+      "id": 1002,
+      "first_name": "Saurabh",
+      "last_name": "Kushwaha",
+      "email": "kushwahaSaurabh@test.com",
+      "gender": "Male",
+      "ip_address": "124.415.104.66",
+      "age": 20
+  },
+  {    
+      "id": 1003,
+      "first_name": "Mampi",
+      "last_name": "Roy",
+      "email": "mampiRoy@test.com",
+      "gender": "Male",
+      "ip_address": "124.215.194.36",
+      "age": 21
+  }
+]
